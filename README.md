@@ -1,2 +1,2 @@
 # Manufacturing system analysis - Tableau
- Analysing data from IoT manufacturing systems to uncover machines breakdown patterns and trends
+ Analyzing data from IoT manufacturing systems to uncover machine breakdown in different locations for the company.
